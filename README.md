@@ -1,7 +1,7 @@
 # vue-ts-elasticsearch
 ## 1.下载elasticsearch,ik分词器,kibana
-elasticsearch官网地址：
-https://www.elastic.co/cn/downloads/elasticsearch
+### elasticsearch官网地址：
+### https://www.elastic.co/cn/downloads/elasticsearch
 kibana官方下载地址：
 https://www.elastic.co/cn/downloads/kibana
 ik分词器下载地址
