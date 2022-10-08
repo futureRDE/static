@@ -1,0 +1,28 @@
+#---
+#logging:
+#  level:
+#    root: DEBUG
+#server:
+#  port: 8081
+#  session:
+#    cookie:
+#      secure: false
+##  servlet:
+##    context-path: /
+#spring:
+##  servlet:
+##    multipart:
+##      maxFileSize: 10MB
+##      maxRequestSize: 15MB
+#  #  cloud:
+#  #    nacos:
+#  #      discovery:
+#  #        server-addr: 192.168.18.1:8848
+#  #  application:
+#  #    name: service-1
+#  datasource:
+#    url: jdbc:mysql://localhost:3307/store?useUnicode=true&amp;characterEncoding=utf-8&amp;useSSL=true&amp;serverTimezone=Asia/Shanghai
+#    username: root
+#    password: ?mysqlpos722?
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#
